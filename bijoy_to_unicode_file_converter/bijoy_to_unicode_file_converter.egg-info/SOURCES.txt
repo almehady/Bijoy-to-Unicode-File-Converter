@@ -1,0 +1,8 @@
+README.md
+setup.py
+bijoy_to_unicode_file_converter/converter.py
+bijoy_to_unicode_file_converter/bijoy_to_unicode_file_converter.egg-info/PKG-INFO
+bijoy_to_unicode_file_converter/bijoy_to_unicode_file_converter.egg-info/SOURCES.txt
+bijoy_to_unicode_file_converter/bijoy_to_unicode_file_converter.egg-info/dependency_links.txt
+bijoy_to_unicode_file_converter/bijoy_to_unicode_file_converter.egg-info/requires.txt
+bijoy_to_unicode_file_converter/bijoy_to_unicode_file_converter.egg-info/top_level.txt
